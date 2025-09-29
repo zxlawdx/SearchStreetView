@@ -13,7 +13,7 @@ StreetSearch é um aplicativo Android que permite pesquisar endereços a partir 
 ---
 
 ## Tecnologias Utilizadas
-- Kotlin / Java (Android Studio)
+- Java (Android Studio)
 - API Nominatim (OpenStreetMap)
 - Android SDK (Material Design)
 - Gradle
